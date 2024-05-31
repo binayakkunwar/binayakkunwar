@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Binayak, a graduate student at the department of agricultural economics at Purdue University.
+I am Binayak, graduate student at the department of agricultural economics at Purdue University.
 
 <!--
 **binayakkunwar/binayakkunwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
